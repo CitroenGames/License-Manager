@@ -13,7 +13,7 @@ The server also includes an admin API that allows admin users to generate and ma
 To get started, clone the repository and install the dependencies:
 
 ```
-git clone https://github.com/your-username/license-server.git
+git clone https://github.com/CitroenGames/License-Manager/License-Manager.git
 cd license-server
 npm install
 ```
