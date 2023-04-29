@@ -14,7 +14,7 @@ To get started, clone the repository and install the dependencies:
 
 ```
 git clone https://github.com/CitroenGames/License-Manager/License-Manager.git
-cd license-server
+cd License-Manager
 npm install
 ```
 
