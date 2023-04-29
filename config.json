@@ -1,0 +1,8 @@
+{
+  "port": 1337,
+  "ssl": {
+    "key": "private.key",
+    "cert": "certificate.crt",
+    "ca": "ca_bundle.crt"
+  }
+}
