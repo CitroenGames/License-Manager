@@ -8,6 +8,10 @@ This project provides a simple license server implementation that allows clients
 
 The server also includes an admin API that allows admin users to generate and manage license keys, and fetch information about registered users.
 
+# Note
+
+YOU NEED A SSL CETIFICATE TO USE THIS.
+
 ## Getting started
 
 To get started, clone the repository and install the dependencies:
